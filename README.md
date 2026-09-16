@@ -559,8 +559,6 @@ The trained Random Forest model is integrated into a Streamlit application, allo
 
 ---
 
-## 👩‍💻 Author
 
-**Gubbala Navya Sree Lakshmi**
 
 B.Tech – Artificial Intelligence / Computer Science related field
